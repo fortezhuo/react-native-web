@@ -1,5 +1,5 @@
 # react-native-web
-# Patch Version
+
 "React Native for Web" brings the platform-agnostic Components and APIs of
 React Native to the Web. It is used in production by Twitter Lite.
 
